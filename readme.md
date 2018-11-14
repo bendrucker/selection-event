@@ -1,4 +1,4 @@
-# selection-event [![Build Status](https://travis-ci.org/bendrucker/selection-event.svg?branch=master)](https://travis-ci.org/bendrucker/selection-event)
+# selection-event [![Build Status](https://travis-ci.org/bendrucker/selection-event.svg?branch=master)](https://travis-ci.org/bendrucker/selection-event) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/selection-event.svg)](https://greenkeeper.io/)
 
 > value-event handler that transmits input selection state
 
